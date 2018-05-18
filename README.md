@@ -3,8 +3,14 @@
 Мета Ознайомити з основними механізмами реалізації новітніх технологій ("клієнт-сервер"), розбір програми роботи з неіменованими каналами.
 
 Завдання Розробити програму що зчитує файл та передає його вміст іншій команді, за допомогою неіменованого каналу.
-https://ibb.co/eMdu0d
-https://ibb.co/bJctty
+
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/nDUj0d/2018_05_18_15_15_26.png" alt="2018_05_18_15_15_26" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/eDvwDy/2018_05_18_14_49_58.png" alt="2018_05_18_14_49_58" border="0"></a>
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
         int main(int argc, char *argv[])
