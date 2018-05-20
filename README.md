@@ -6,4 +6,4 @@
 
 <a href="https://imgbb.com/"><img src="https://image.ibb.co/nDUj0d/2018_05_18_15_15_26.png" alt="2018_05_18_15_15_26" border="0"></a>
 
-<a href="https://imgbb.com/"><img src="https://image.ibb.co/eDvwDy/2018_05_18_14_49_58.png" alt="2018_05_18_14_49_58" border="0"></a>
+<a href="https://ibb.co/b8Gkd8"><img src="https://preview.ibb.co/nKYWJ8/laba3.png" alt="laba3" border="0"></a>
